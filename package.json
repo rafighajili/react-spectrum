@@ -198,7 +198,8 @@
       "exclude": [
         "**/*.global.css",
         "packages/@react-aria/example-theme/**",
-        "packages/@react-spectrum/style-macro-s1/**"
+        "packages/@react-spectrum/style-macro-s1/**",
+        "packages/@react-spectrum/color/src/ColorSwatch.tsx"
       ]
     },
     "drafts": {
