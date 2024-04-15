@@ -9,7 +9,8 @@ let excludedPackages = new Set([
   '@adobe/spectrum-css-temp',
   '@react-spectrum/test-utils',
   '@spectrum-icons/build-tools',
-  '@react-spectrum/docs'
+  '@react-spectrum/docs',
+  '@react-spectrum/style-macro-s1'
 ]);
 
 let missing = new Set();
